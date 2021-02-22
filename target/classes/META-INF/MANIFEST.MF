@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Boot Course API
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ksolves
+Implementation-Vendor-Id: com.codevivek.springbootquickstart
+Build-Jdk: 1.8.0_242
+Implementation-URL: http://projects.spring.io/spring-boot/course-api/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
